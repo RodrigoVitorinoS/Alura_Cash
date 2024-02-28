@@ -32,4 +32,3 @@ def predict(idade_pessoa: int, salario_pessoa: float, situacao_propriedade_pesso
                       "foi_inadimplente_cb": foi_inadimplente_bc, "previsao" :int(previsao), "chance_inadimplencia":xgb.predict_proba(novo_dado_one).tolist()[0][0]}
 
 
-# http://127.0.0.1:8000/predict?idade_pessoa=30&salario_pessoa=50000&situacao_propriedade_pessoa=Própria&tempo_trabalhado_pessoa=5&motivo_emprestimo=Pagamento%20de%20débitos&pontuacao_emprestimo=A&valor_emprestimo=10000&taxa_juros_emprestimo=5.0&foi_inadimplente_bc=1
