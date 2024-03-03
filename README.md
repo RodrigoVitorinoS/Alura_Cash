@@ -1,4 +1,4 @@
-![alura_cash](https://github.com/rodrigovitorino137/Alura_Cash/assets/132311147/9e3c781d-ca3a-44f4-aada-e130c24f37cf)<div align="center">
+<div align="center">
    <img src="https://github.com/rodrigovitorino137/Alura_Cash/assets/132311147/abcd763d-e583-43e5-8e32-8ef52cfcbe97">
 </div>
 
