@@ -14,8 +14,6 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
-
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
 - [Desenvolvedores](#desenvolvedores)
@@ -57,7 +55,7 @@ Essas funcionalidades combinadas fornecerão uma poderosa ferramenta de análise
 - ``MySQL``
 - ``Power BI``
 
-# Autores
+# Desenvolvedores
 
 | [<img loading="lazy" src="https://github.com/rodrigovitorino137/Alura_Cash/assets/132311147/16bd60b1-8bb8-4a5f-9add-8a08bf209bd6" width=115><br><sub>Rodrigo Vitorino</sub>](https://github.com/rodrigovitorino137)  |  
 | :---: |
