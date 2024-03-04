@@ -19,7 +19,7 @@
 - [Desenvolvedores](#desenvolvedores)
 
 ## Descrição do projeto
-Este projeto consiste na análise de dados de uma empresa fictícia chamada Alura Cash. O objetivo principal é realizar a limpeza e tratamento de um banco de dados MySQL existente, além de criar e implantar um modelo de Machine Learning por meio de uma API para identificar a possibilidade de inadimplência de um cliente.
+Este projeto consiste na análise de dados de uma empresa fictícia chamada Alura Cash. O objetivo principal é realizar a limpeza e tratamento de um banco de dados MySQL existente, além de criar e implantar um modelo de Machine Learning e por meio de uma API disponibilizá-lo para identificar a possibilidade de inadimplência de um cliente.
 
 Ao longo do projeto, serão realizadas as seguintes etapas:
 
